@@ -24,7 +24,7 @@ Cloud-notes-source：项目源码
 
 2、PC
 
-​           使用的前后端语言（待定）
+​           
 
 
 
